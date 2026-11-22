@@ -1,0 +1,14 @@
+# Segredo de acesso do trackpad
+trackpad_token.txt
+
+# Atalho pessoal com caminho local
+trackpad.bat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
