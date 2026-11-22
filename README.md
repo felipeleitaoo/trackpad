@@ -1,6 +1,6 @@
-# iPad Trackpad
+# Trackpad
 
-Transforme um iPad (mesmo um bem antigo) em **trackpad, teclado e segunda tela touch** para o seu PC com Windows. Nada para instalar no iPad: ele só abre uma página no Safari.
+Transforme um aparelho (mesmo um bem antigo) em **trackpad, teclado e segunda tela touch** para o seu PC com Windows. Nada para instalar nele: ele só precisa abrir uma página no navegador. No meu caso usei um ipad.
 
 > Projeto feito em uma tarde de domingo, em parceria com o Claude (Anthropic).
 
